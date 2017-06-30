@@ -103,7 +103,7 @@ dans votre frontmatter ajoutez le parma `hidden=true`.
 Une ou plusieurs entrées de menu peuvent être affichées dépliées par défaut. (Comme l'entrée du menu "Démarrer" sur ce site web.)
 
 dans votre frontmatter ajoutez le param `alwaysopen=true`.
-example :
+exemple :
 
 ```
 title = "Démarrage"
