@@ -3,15 +3,14 @@ languageCode = "fr-fr"
 DefaultContentLanguage = "fr"
 
 title = "DocDock Hugo en Français"
+
 theme = "docdock"
-
-
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+editURL = "https://github.com/ChristopheDucamp/hugo-docdock-fr/edit/master/exempleSite/content/"
 noHomeIcon = false # default is false
 noSearch = false # default is false
 showVisitedLinks = true # default is false
@@ -22,7 +21,7 @@ themeVariant = "blue" # choisir la variante du theme "green", "gold" , "gray", "
 pre = "<h3>Plus</h3>"
 name = "<i class='fa fa-github'></i> Repo Github"
 identifier = "ds"
-url = "https://github.com/ChristopheDucamp/hugo-theme-docdock"
+url = "https://github.com/ChristopheDucamp/hugo-docdock-fr"
 weight = 10
 
 [[menu.shortcuts]]
