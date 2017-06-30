@@ -2,8 +2,8 @@
 title = "Créer une Page"
 description = ""
 date = "2017-06-30T18:36:24+02:00"
-creatordisplayname = "Christophe Ducamp"
-creatoremail = "christophe.ducamp@gmail.com"
+creatordisplayname = "Valere JEANTET"
+creatoremail = "valere.jeantet@gmail.com"
 lastmodifierdisplayname = "Christophe Ducamp"
 lastmodifieremail = "christophe.ducamp@gmail.com"
 tags = ["page","creation"]
@@ -28,20 +28,20 @@ Hugo-theme-docdock fournit des archétypes pour vous aider à créer ce type de 
 ## Front Matter
 Chaque page Hugo doit définir un Front Matter en yaml, toml ou json.
 
-Hugo-theme-docdock utilise les params suivants au sommet de ceux existants déjà : 
+Hugo-theme-docdock utilise les paramètres qui suivent au-dessus des paramètres déjà existants :
 
 	+++
 	# Type de contenu, réglez "slide" pour l'afficher en plein écran avec reveal.js
 	type="page"
 
 	# Nom du Créateur
-	creatordisplayname = "Christophe DUCAMP"
+	creatordisplayname = "Valère JEANTET"
 	# E-mail du créateur
-	creatoremail = "christophe.ducamp@gmail.com"
+	creatoremail = "valere.jeantet@gmail.com"
 	# Nom du dernier Auteur
-	lastmodifierdisplayname = "Valere JEANTET"
+	lastmodifierdisplayname = "xtof"
 	# Email du dernier Auteur
-	lastmodifieremail = "valere.jeantet@gmail.com"
+	lastmodifieremail = "christophe@ducamp.me"
 	+++
 
 
