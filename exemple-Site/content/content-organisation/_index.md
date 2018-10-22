@@ -80,7 +80,7 @@ Add a `url` param next to `[menu.main]`
  -->
 ### Ordre des entrées groupées de menu/page
 
-dans votre frontmatter ajoutez le param `weight` avec un nombre pour trier.
+Dans votre frontmatter ajoutez le param `weight` avec un nombre pour trier.
 
 	+++
 	title="Ma page"
@@ -90,7 +90,7 @@ dans votre frontmatter ajoutez le param `weight` avec un nombre pour trier.
 
 ### Cacher une entrée de menu
 
-dans votre frontmatter ajoutez le parma `hidden=true`.
+Dans votre frontmatter ajoutez le parma `hidden=true`.
 
 	+++
 	title="Ma page"
@@ -102,7 +102,7 @@ dans votre frontmatter ajoutez le parma `hidden=true`.
 
 Une ou plusieurs entrées de menu peuvent être affichées dépliées par défaut. (Comme l'entrée du menu "Démarrer" sur ce site web.)
 
-dans votre frontmatter ajoutez le param `alwaysopen=true`.
+Dans votre frontmatter ajoutez le param `alwaysopen=true`.
 exemple :
 
 ```
@@ -114,7 +114,7 @@ alwaysopen = true
 
 ### Structure de dossier et nom de fichier
 
-Organisation de Contenu **est** votre structure de dossier  `content`.
+Organisation du Contenu **est** votre structure de dossier `content`.
 
 ### Page d'accueil
 
